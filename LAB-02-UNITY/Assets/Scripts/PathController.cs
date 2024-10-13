@@ -70,4 +70,6 @@ public class PathController : MonoBehaviour
     {
         target = pathManager.GetNextTarget();
     }
+
+   
 }

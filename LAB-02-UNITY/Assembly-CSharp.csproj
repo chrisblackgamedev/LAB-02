@@ -65,8 +65,12 @@
   <ItemGroup>
     <Compile Include="Assets\RuneFire_Studios\WaypointsFree\Scripts\Waypoint.cs" />
     <Compile Include="Assets\RuneFire_Studios\WaypointsFree\Scripts\WaypointsTraveler.cs" />
+    <Compile Include="Assets\Scripts\PathManagerEditor.cs" />
     <Compile Include="Assets\RuneFire_Studios\WaypointsFree\Scripts\WaypointGameObject.cs" />
+    <Compile Include="Assets\Scripts\PathController.cs" />
     <Compile Include="Assets\RuneFire_Studios\WaypointsFree\Scripts\WaypointsGroup.cs" />
+    <Compile Include="Assets\Scripts\waypoint.cs" />
+    <Compile Include="Assets\Scripts\PathManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\RuneFire_Studios\WaypointsFree\_Visuals\Kenney Assets\Mini Car Kit\License.txt" />

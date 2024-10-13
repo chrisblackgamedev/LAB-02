@@ -356,6 +356,10 @@
 "Assets/RuneFire_Studios/WaypointsFree/Scripts/WaypointGameObject.cs"
 "Assets/RuneFire_Studios/WaypointsFree/Scripts/WaypointsGroup.cs"
 "Assets/RuneFire_Studios/WaypointsFree/Scripts/WaypointsTraveler.cs"
+"Assets/Scripts/PathController.cs"
+"Assets/Scripts/PathManager.cs"
+"Assets/Scripts/PathManagerEditor.cs"
+"Assets/Scripts/waypoint.cs"
 -langversion:9.0
 
 /deterministic
